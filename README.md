@@ -1,7 +1,7 @@
-```python
-
-```
-
+---
+layout: default
+title: House Prices
+---
 
 ```python
 # House Prices: Advanced Regression Techniques
