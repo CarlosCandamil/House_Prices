@@ -3,7 +3,6 @@ layout: default
 title: House Prices
 ---
 
-```python
 # House Prices: Advanced Regression Techniques
 
 ## Summary
@@ -37,7 +36,7 @@ This project aims to predict the final price of each home in the dataset using a
 8. **Conclusion**
     - Summary of findings
     - Future work
-```
+
 
 
 ```python
