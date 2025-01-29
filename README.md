@@ -8,37 +8,6 @@ title: House Prices
 ## Summary
 This project aims to predict the final price of each home in the dataset using advanced regression techniques. The dataset contains various features related to the properties of the houses, such as the number of rooms, year built, and other attributes. The goal is to build a model that can accurately predict house prices based on these features.
 
-## Index
-1. **Introduction**
-    - Overview of the project
-    - Description of the dataset
-2. **Data Preprocessing**
-    - Handling missing values
-    - Encoding categorical variables
-    - Feature scaling
-3. **Exploratory Data Analysis (EDA)**
-    - Summary statistics
-    - Visualizations
-4. **Feature Selection**
-    - Univariate feature selection
-    - Tree-based feature selection
-5. **Model Building**
-    - Splitting the data into training and validation sets
-    - Training the model
-    - Evaluating the model
-6. **Model Evaluation**
-    - Performance metrics
-    - Cross-validation
-7. **Prediction on Test Data**
-    - Preprocessing test data
-    - Making predictions
-    - Saving the results
-8. **Conclusion**
-    - Summary of findings
-    - Future work
-
-
-
 ```python
 # Import necessary libraries
 import numpy as np
